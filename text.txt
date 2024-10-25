@@ -1,0 +1,2 @@
+figma = https://www.figma.com/design/lADsWAc7vFWKDPp5yuFk76/Full-E-Commerce-Website-UI-UX-Design-(Community)?node-id=1-3&node-type=canvas&t=jmlbxhjedEHGGhL9-0
+drawsql = https://drawsql.app/teams/bekzod-7/diagrams/e-commerce
