@@ -1,0 +1,50 @@
+{
+    "en": {
+        "header": {
+            "headerTop": {
+                "p": "Summer Sale For All Swim Suits And Free Express Delivery - OFF 50%! ShopNow"
+            },
+            "navbar": {
+                "logo": "Exclusive",
+                "links": {},
+                "icons": {
+                    "searchText": "What are you looking for?"
+                }
+            }
+        },
+        "main": {},
+        "footer": {}
+    },
+    "uz": {
+        "header": {
+            "headerTop": {
+                "p": "Barcha suzish kiyimlari uchun yozgi chegirma va bepul tez yetkazib berish - 50% chegirma! Xarid qiling"
+            },
+            "navbar": {
+                "logo": "Exclusive",
+                "links": {},
+                "icons": {
+                    "searchText": "What are you looking for?"
+                }
+            }
+        },
+        "main": {},
+        "footer": {}
+    },
+    "ru": {
+        "header": {
+            "headerTop": {
+                "p": "Летняя распродажа всех купальников и бесплатная экспресс-доставка - СКИДКА 50%! Покупайте сейчас"
+            },
+            "navbar": {
+                "logo": "Exclusive",
+                "links": {},
+                "icons": {
+                    "searchText": "What are you looking for?"
+                }
+            }
+        },
+        "main": {},
+        "footer": {}
+    }
+}

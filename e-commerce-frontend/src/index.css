@@ -5,3 +5,19 @@
   text-decoration: none;
   list-style: none;
 }
+
+.app {
+  max-width: 1305px;
+  margin: 0 auto;
+}
+
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+.wrapper .card {
+  width: 300px;
+  height: 300px;
+  border: 1px solid black;
+}
